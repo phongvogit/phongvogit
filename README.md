@@ -1,4 +1,4 @@
-## Hello, folks! <img src="https://github.com/phongvogit/phongvogit/blob/main/wave.gif" align="top" width="30px">
+## Hello, folks! <img src="https://github.com/phongvogit/phongvogit/blob/master/wave.gif" align="top" width="30px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-Phong%20Vo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducphongvo99/) [![Mail Badge](https://img.shields.io/badge/-Phong%20Vo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:phongvo.dn.vn@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Phong%20Vo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCri4auquS-kgJHAgsOt_AIg)
 
