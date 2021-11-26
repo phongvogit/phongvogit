@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Phong%20Vo-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ducphongvo99/) [![Mail Badge](https://img.shields.io/badge/-Phong%20Vo-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:phongvo.dn.vn@gmail.com) [![Youtube Badge](https://img.shields.io/badge/-Phong%20Vo-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCri4auquS-kgJHAgsOt_AIg)
 
-## 🎓 I'm a IT third-year Student at LAB University of Applied Sciences
+## 🎓 I'm a IT third-year student at LAB University of Applied Sciences
 
 - 🔭 I’m currently practicing algorithms to make my thinking programming better
 - 👯 I’m actively looking for a Full-stack full-time job.
